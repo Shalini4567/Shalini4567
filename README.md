@@ -15,7 +15,7 @@ Currently focusing on **Python, Excel, Power BI, and MYSQL** to solve real-world
 
 ---
 
-- GitHub: [github.com/YourUsername](https://github.com/Shalini4567)
+- GitHub:(https://github.com/Shalini4567)
 - Email: shaliniponia@gmail.com
 - 
 - 🌱 Currently learning Machine Learning and Predictive Analytics
