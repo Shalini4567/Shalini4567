@@ -1,9 +1,9 @@
 # Hi there, I'm Shalini 👋
 
-🎓 **B.Tech 3rd Year Student |Aspiring Data Analyst | SQL • Excel • Power BI • Python**
+🎓 **B.Tech 3rd Year Student |Aspiring Data Analyst | SQL(MYSQL) • Excel • Power BI • Python**
 
 💻 I love exploring data and building dashboards to turn raw numbers into meaningful insights.  
-Currently focusing on **Python, Excel, Power BI, and MYSQL** to solve real-world business problems.
+Currently focusing on **Python, Excel, Power BI, and SQL** to solve real-world business problems.
 
 ---
 
