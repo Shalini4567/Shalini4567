@@ -18,4 +18,4 @@ Currently focusing on **Python, Excel, Power BI, and MYSQL** to solve real-world
 - Email: shaliniponia146@gmail.com
 - 
 - 🌱 Currently learning Machine Learning and Predictive Analytics
-- 🚀 Check out my projects below!
+- 🚀 Check out my projects!
